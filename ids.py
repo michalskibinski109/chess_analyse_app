@@ -1,0 +1,6 @@
+YEAR_DROPDOWN = 'year-dropdown'
+YEAR_DROPDOWN_2 = 'year-dropdown-2'
+TIME_CLASS_DROPDOWN = 'time-class-dropdown'
+COLOR_DROPDOWN = 'color-dropdown'
+BAR_CHART = 'bar-chart'
+OPENING_CHART = 'opening-chart'
